@@ -14,7 +14,7 @@ export const Footer = () => {
                         style={{color:"lime"}}>Pete</span>
                 </a>
             </p>
-            <a href="https://github.com/codeTrackLift/todo" target="_blank" rel='noreferrer'>
+            <a href="https://github.com/codeTrackLift/todo#readme" target="_blank" rel='noreferrer'>
                 <img className="socialLogo" src="https://codetracklift.github.io/codeTrackLift/logos/GitHub-Mark-Light-64px.png" alt="GitHub Icon"/>
             </a>
             <a href="https://twitter.com/codetracklift" target="_blank" rel='noreferrer'>
