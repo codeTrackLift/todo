@@ -25,7 +25,7 @@ test('placeholderText', () => {
 });
 
 
-// React Tesing Library Tutorial
+// React Testing Library Tutorial
 // https://youtu.be/0Y11K7KSC80
 
 const mockedSetTodo = jest.fn();
